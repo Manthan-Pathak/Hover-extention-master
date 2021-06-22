@@ -3,8 +3,6 @@
 
 Access more content on the internet. Made so you can access important information, on topics like coronavirus and elections, with ease and without paywalls, subscription walls, ads, and tracking modules. \
 
-## Read about how it works here: https://medium.datadriveninvestor.com/how-to-bypass-any-paywall-for-free-df87832cbff7
-
 # Installation
 
 ## Download Locally: 
