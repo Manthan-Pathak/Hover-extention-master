@@ -7,7 +7,7 @@ Access more content on the internet. Made so you can access important informatio
 
 ## Download Locally: 
 **Google Chrome**
-1. Download this repo as a [ZIP file from GitHub](https://github.com/hover-inc/hover-extension/archive/master.zip).
+1. Download this repo as a [ZIP file from GitHub]
 2. Unzip the file and you should have a folder named `hover-extension-master`.
 3. In Chrome go to the extensions page (`chrome://extensions`).
 4. Enable Developer Mode.
